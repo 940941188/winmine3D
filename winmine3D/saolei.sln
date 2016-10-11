@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saolei.CSharp.Plugins", "saolei.CSharp.Plugins.csproj", "{069E89D0-1A73-F9FC-9BBC-0B2DEF42370C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saolei.CSharp", "saolei.CSharp.csproj", "{EF783FFD-BAD5-A8B0-7888-4743F9F39C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saolei.CSharp.Editor", "saolei.CSharp.Editor.csproj", "{290D9138-3E4B-17A2-08D6-2B786708C828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{069E89D0-1A73-F9FC-9BBC-0B2DEF42370C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069E89D0-1A73-F9FC-9BBC-0B2DEF42370C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069E89D0-1A73-F9FC-9BBC-0B2DEF42370C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069E89D0-1A73-F9FC-9BBC-0B2DEF42370C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF783FFD-BAD5-A8B0-7888-4743F9F39C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF783FFD-BAD5-A8B0-7888-4743F9F39C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF783FFD-BAD5-A8B0-7888-4743F9F39C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF783FFD-BAD5-A8B0-7888-4743F9F39C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{290D9138-3E4B-17A2-08D6-2B786708C828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290D9138-3E4B-17A2-08D6-2B786708C828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290D9138-3E4B-17A2-08D6-2B786708C828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290D9138-3E4B-17A2-08D6-2B786708C828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

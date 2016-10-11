@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 41a4d6714f6f20a4d91b2ee96437408c
+timeCreated: 1473209481
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: tieqiao:group1_tieqiao:pCylinder1
+    100002: tieqiao:group1_tieqiao:pCylinder3
+    100004: tieqiao:group1_tieqiao:pCylinder4
+    100006: tieqiao:group1_tieqiao:pCylinder6
+    100008: tieqiao:group1_tieqiao:pCylinder7
+    100010: tieqiao:group1_tieqiao:pCylinder8
+    100012: tieqiao:group1_tieqiao:pCylinder9
+    100014: tieqiao:pPlane1_tieqiao:group1
+    100016: //RootNode
+    400000: tieqiao:group1_tieqiao:pCylinder1
+    400002: tieqiao:group1_tieqiao:pCylinder3
+    400004: tieqiao:group1_tieqiao:pCylinder4
+    400006: tieqiao:group1_tieqiao:pCylinder6
+    400008: tieqiao:group1_tieqiao:pCylinder7
+    400010: tieqiao:group1_tieqiao:pCylinder8
+    400012: tieqiao:group1_tieqiao:pCylinder9
+    400014: tieqiao:pPlane1_tieqiao:group1
+    400016: //RootNode
+    2300000: tieqiao:group1_tieqiao:pCylinder1
+    2300002: tieqiao:group1_tieqiao:pCylinder3
+    2300004: tieqiao:group1_tieqiao:pCylinder4
+    2300006: tieqiao:group1_tieqiao:pCylinder6
+    2300008: tieqiao:group1_tieqiao:pCylinder7
+    2300010: tieqiao:group1_tieqiao:pCylinder8
+    2300012: tieqiao:group1_tieqiao:pCylinder9
+    2300014: tieqiao:pPlane1_tieqiao:group1
+    3300000: tieqiao:group1_tieqiao:pCylinder1
+    3300002: tieqiao:group1_tieqiao:pCylinder3
+    3300004: tieqiao:group1_tieqiao:pCylinder4
+    3300006: tieqiao:group1_tieqiao:pCylinder6
+    3300008: tieqiao:group1_tieqiao:pCylinder7
+    3300010: tieqiao:group1_tieqiao:pCylinder8
+    3300012: tieqiao:group1_tieqiao:pCylinder9
+    3300014: tieqiao:pPlane1_tieqiao:group1
+    4300000: tieqiao:group1_tieqiao:pCylinder1
+    4300002: tieqiao:group1_tieqiao:pCylinder3
+    4300004: tieqiao:group1_tieqiao:pCylinder4
+    4300006: tieqiao:group1_tieqiao:pCylinder6
+    4300008: tieqiao:group1_tieqiao:pCylinder7
+    4300010: tieqiao:group1_tieqiao:pCylinder8
+    4300012: tieqiao:group1_tieqiao:pCylinder9
+    4300014: tieqiao:pPlane1_tieqiao:group1
+    6400000: tieqiao:group1_tieqiao:pCylinder1
+    6400002: tieqiao:group1_tieqiao:pCylinder3
+    6400004: tieqiao:group1_tieqiao:pCylinder4
+    6400006: tieqiao:group1_tieqiao:pCylinder6
+    6400008: tieqiao:group1_tieqiao:pCylinder7
+    6400010: tieqiao:group1_tieqiao:pCylinder8
+    6400012: tieqiao:group1_tieqiao:pCylinder9
+    6400014: tieqiao:pPlane1_tieqiao:group1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
