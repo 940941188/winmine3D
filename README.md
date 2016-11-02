@@ -19,6 +19,12 @@ wasd控制角色移动
 
 左手柄扳机双击-快速挖掘（同上）
 
+##项目展示
+
+![image](https://github.com/940941188/winmine3D/blob/master/pic/1.gif)
+
+![image](https://github.com/940941188/winmine3D/blob/master/pic/2.gif)
+
 ####oculus 账号登录时 network error解决方法
 
 shadowsocks 有效
